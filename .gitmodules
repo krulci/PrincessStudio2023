@@ -1,0 +1,6 @@
+[submodule "PrincessStudio"]
+	path = PrincessStudio
+	url = https://github.com/krulci/PrincessStudio.git
+[submodule "PrincessStudioServer"]
+	path = PrincessStudioServer
+	url = https://github.com/krulci/PrincessStudioServer.git
