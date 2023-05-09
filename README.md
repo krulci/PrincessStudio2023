@@ -1,2 +1,2 @@
 # PrincessStudio2023
-Join Server at https://discord.gg/UJdZkzCHSh
+Join Discord Server at https://discord.gg/UJdZkzCHSh
